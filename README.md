@@ -1,18 +1,12 @@
-# \# DSM-to-DTM Automation for Volcanic Hazard Modelling
+# DSM-to-DTM Automation for Volcanic Hazard Modelling
 
-# 
 
-# This project automates the conversion of Digital Surface Models (DSMs) into 
+# This project automates the conversion of Digital Surface Models (DSMs) into Digital Terrain Models (DTMs) for volcanic hazard modelling. 
 
-# Digital Terrain Models (DTMs) for volcanic hazard modelling. 
+# The pipeline uses deep learning (U-Net / DeepLabV3+) to detect and remove artefacts such as vegetation, buildings, and vehicles from DSMs.
 
-# The pipeline uses deep learning (U-Net / DeepLabV3+) to detect and remove 
 
-# artefacts such as vegetation, buildings, and vehicles from DSMs.
-
-# 
-
-# \## Repository Structure
+## Repository Structure
 
 # \- `notebooks/` – Colab notebooks with full workflow
 
@@ -24,9 +18,8 @@
 
 # \- `README.md` – this file
 
-# 
 
-# \## How to Run
+## How to Run
 
 # 1\. Clone the repo:
 
