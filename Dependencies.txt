@@ -1,11 +1,10 @@
-numpy
-matplotlib
-pandas
 torch
 torchvision
 tqdm
-scikit-learn
+numpy
 rasterio
-geopandas
-shapely
-Pillow
+opencv-python
+scikit-image
+scikit-learn
+pyyaml
+matplotlib
