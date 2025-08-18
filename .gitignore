@@ -1,2 +1,7 @@
-# Ignore build artifacts from python
-codes/__pycache__/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+
+data/
+outputs/
