@@ -7,3 +7,5 @@ tqdm
 scikit-learn
 rasterio
 geopandas
+shapely
+Pillow
