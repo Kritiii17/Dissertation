@@ -1,8 +1,8 @@
 # Hybrid DSM–DTM Pipeline for Volcanic Hazard Modelling
-
+This repository accompanies the MSc dissertation submitted to the University of Bristol (2025).
  
 **"Automating pre-processing of digital elevation maps for volcanic hazard modelling"**  
-by Kriti Garg (University of Bristol, 2025)
+by Kriti Garg
 
 
 ## Overview
