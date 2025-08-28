@@ -2,7 +2,7 @@
 
  
 **"Automating pre-processing of digital elevation maps for volcanic hazard modelling"**  
-University of Bristol, 2025.
+by Kriti Garg (University of Bristol, 2025)
 
 
 ## Overview
