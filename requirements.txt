@@ -3,10 +3,6 @@ pandas
 matplotlib
 scikit-learn
 scipy
-rasterio
-geopandas
-shapely
-fiona
 tqdm
 torch
 torchvision
@@ -14,5 +10,10 @@ segmentation-models-pytorch
 albumentations
 opencv-python
 Pillow
-notebook
+torchmetrics
+rich
+rasterio
+geopandas
+shapely
+fiona
 jupyter
