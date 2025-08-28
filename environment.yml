@@ -1,0 +1,27 @@
+name: hybrid-dtm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - rasterio
+  - geopandas
+  - shapely
+  - fiona
+  - tqdm
+  - pytorch
+  - torchvision
+  - segmentation-models-pytorch
+  - albumentations
+  - opencv
+  - pillow
+  - jupyter
+  - pip
+  - pip:
+      - torchmetrics
+      - rich
