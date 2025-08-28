@@ -43,6 +43,9 @@ Due to GitHub storage limits, full datasets and outputs are hosted on Google Dri
   - Lagasca.ipynb - python notebook with complete code used for creating this pipeline.
   - Chosica.ipynb - python notebook to test the generalization of model at Chosica site.
 
+- **Figures Folder**
+  - Conatins all the images used in the Thesis.
+
 
 ## Installation
 
