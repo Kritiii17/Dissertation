@@ -50,6 +50,7 @@ Due to GitHub storage limits, full datasets and outputs are hosted on Google Dri
 pip install -r requirements.txt
 
 ### Conda
+```bash
 conda env create -f environment.yml
 conda activate hybrid-dtm
 
