@@ -32,11 +32,11 @@ Due to GitHub storage limits, full datasets and outputs are hosted on Google Dri
 - **Folder Project - Contains data for La Gasca (Ecuador)**  
   - DEM, Orthoimagery (raw & aligned), Woodland shapefile (raw & aligned) 
   - Outputs folder - Training previews & Hybrid DSM–DTM outputs  
-  - Tiles folder - inputs, masks & prediction tiles
+  - Tiles folder - input, mask & prediction tiles
   - Checkpoints - model's best trained path
 - **Folder Chosica - Contains data for Chosica (Peru)**  
   - DEM, Orthoimagery (raw & aligned), Prediction Mask (raw & cleaned)
-  - Tiles folder - inputs & prediction tiles 
+  - Tiles folder - input & prediction tiles 
   - Outputs folder - Hybrid DSM-DTM outputs
     
 - **Folder Colab Notebooks**  
@@ -44,7 +44,7 @@ Due to GitHub storage limits, full datasets and outputs are hosted on Google Dri
   - Chosica.ipynb - python notebook to test the generalization of model at Chosica site.
 
 - **Figures Folder**
-  - Conatins all the images used in the Thesis.
+  - Contains all the images used in the Thesis.
 
 
 ## Installation
