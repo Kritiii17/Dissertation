@@ -26,7 +26,7 @@ The workflow was tested on **La Gasca (Ecuador)** and **Chosica (Peru)**, demons
 ## Data Access
 Due to GitHub storage limits, full datasets and outputs are hosted on Google Drive:  
 
-[Google Drive Folder](https://drive.google.com/drive/u/1/my-drive)  
+[Google Drive Folder](https://drive.google.com/drive/folders/1s5waln96xrkeh9LXw0iWG8oP4eRiGDmU?usp=drive_link)  
 
 ### Contents
 - **Folder Project - Contains data for La Gasca (Ecuador)**  
